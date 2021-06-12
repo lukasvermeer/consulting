@@ -47,92 +47,28 @@ career-profile:
           - How to ensure that experimentation takes the right place in your company culture?
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: University of Utrecht
+      time: 2000 - 2008
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        In the course of obtaining my Computing Science Master’s degree at Utrecht University, I additionally gained technical, functional and management experience working for a number of small Internet companies and non-profit organisations.    - degree: BSc in Applied Mathematics
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Director of Experimentation
+      time: 2021 - Present
+      company: Vistaprint
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        TODO
+    - role: Director of Experimentation
+      time: 2013 - 2021
+      company: Booking.com
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Booking.com is widely acknowledged as a global leader in the field of online experimentation. Within Booking.com, I helped thousands of people run experiments by leading the department which is responsible for the tools, infrastructure, and training which support experimentation at large scale.
+        In my role as director, I was ultimately responsible for shaping the strategic direction and setting priorities for my department. Working closely with product managers, engineers, and data scientists I helped guide their work towards our shared objectives. I also served as a direct manager, a mentor, and a hiring manager for several key roles in my organisation.
+        In the wider product and data science community within Booking.com I actively collaborated with key stakeholders to ensure our departmental goals were aligned with the rest of the organisation, and I worked with individual product leaders and product teams to enable them to quantify the impact of their product as well as reviewed critical business decisions.
+    - role: Senior Consultant
+      time: 2008 - 2013
+      company: Oracle
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        Involved as Technical Expert and Solution Architect in numerous Oracle Real-Time Decisions (RTD) projects, in which big data techniques, a data science attitude and evidence-based decisioning were the keys to great business success. I maintained the official Oracle RTD blog and quickly grew into one of the leading Global consulting experts in the field of RTD.
 publications:
     title: Publications
     intro: |
