@@ -143,46 +143,37 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+        Lukas co-authored multiple influential academic papers on the topic of online experimentation.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Diagnosing Sample Ratio Mismatch in Online Controlled Experiments: A Taxonomy and Rules of Thumb for Practitioners"
+        link: "https://dl.acm.org/doi/abs/10.1145/3292500.3330722"
+        authors: Aleksander Fabijan, Jayant Gupchup, Somit Gupta, Jeff Omhover, Wen Qin, Lukas Vermeer, Pavel Dmitriev
+        conference: "KDD '19: Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (2019)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Top Challenges from the first Practical Online Controlled Experiments Summit"
+        link: "https://dl.acm.org/doi/abs/10.1145/3331651.3331655"
+        authors: Somit Gupta, Ronny Kohavi, Diane Tang, Ya Xu, Reid Andersen, Eytan Bakshy, Niall Cardin, Sumitha Chandran, Nanyu Chen, Dominic Coey, Mike Curtis, Alex Deng, Weitao Duan, Peter Forbes, Brian Frasca, Tommy Guy, Guido W. Imbens, Guillaume Saint Jacques, Pranav Kantawala, Ilya Katsev, Moshe Katzwer, Mikael Konutgan, Elena Kunakova, Minyong Lee, MJ Lee, Joseph Liu, James McQueen, Amir Najmi, Brent Smith, Vivek Trehan, Lukas Vermeer, Toby Walker, Jeffrey Wong, Igor Yashkov
+        conference: "SIGKDD Explorations June 2019, Volume 21, issue 1. (2019)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Three Key Checklists and Remedies for Trustworthy Analysis of Online Controlled Experiments at Scale"
+        link: "https://ieeexplore.ieee.org/abstract/document/8804459"
+        authors: Aleksander Fabijan, Pavel Dmitriev, Helena Holmström Olsson, Jan Bosch, Lukas Vermeer, Dylan Lewis
+        conference: "2019 IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Practice ICSE-SEIP (2019)"
 
-skills:
-    title: Skills &amp; Proficiency
+      - title: "Experimentation growth: Evolving trustworthy A/B testing capabilities in online software companies"
+        link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2113"
+        authors: Aleksander Fabijan, Pavel Dmitriev, Colin McFarland, Lukas Vermeer, Helena Holmström Olsson, Jan Bosch
+        conference: "Journal of Software: Evolution and Process (2018)"
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+      - title: "A/B Testing at Scale: Accelerating Software Innovation"
+        link: "https://dl.acm.org/doi/abs/10.1145/3077136.3082060"
+        authors: Alex Deng, Pavel Dmitriev, Somit Gupta, Ron Kohavi, Paul Raff, Lukas Vermeer
+        conference: "SIGIR '17: Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information (2017)"
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - title: "Democratizing online controlled experiments at Booking.com"
+        link: "https://arxiv.org/abs/1710.08217"
+        authors: Raphael Lopez Kaufman, Jegar Pitchforth, Lukas Vermeer
+        conference: "Conference on Digital Experimentation CODE@MIT (2017)"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
