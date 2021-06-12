@@ -27,13 +27,6 @@ sidebar:
       - idiom: English
         level: Professional
 
-    interests:
-      - item: Reading
-        link: https://www.goodreads.com/user/show/12729777-lukas-vermeer
-
-      - item: Running
-        link: http://strava.com/athletes/31547159
-
 career-profile:
     title: Biography
     summary: |
